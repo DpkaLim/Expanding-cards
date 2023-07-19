@@ -1,7 +1,7 @@
 # Javascript-practice
 Expanding Cards with HTML, JAVASCRIPT &amp; CSS
 
-Javascript event listener added to the panels so when you click on them, the previous panel reduces in size and the active panel expands. 
+Javascript event listener was added to the panels so when you click on them, the previous panel reduces in size and the active panel expands. 
 ![Screenshot 2023-07-19 at 17 13 55](https://github.com/DpkaLim/Javascript-practice/assets/120406810/be0695c6-ec8e-4f1c-aa1b-b0dc16c530d1)
 
 
